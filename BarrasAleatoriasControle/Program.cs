@@ -4,8 +4,7 @@ using System.Threading;
 
 class Program
 {
-    const int QuantidadeBarras = 37;
-    const int TamanhoMaximo = 38;
+    const int QuantidadeBarras = 26;
 
     static void Main(string[] args)
     {
@@ -42,7 +41,7 @@ class Program
 
             do
             {
-                tamanho = random.Next(1, TamanhoMaximo);
+                tamanho = random.Next(1, QuantidadeBarras + 1);
             } while (tamanhosGerados.Contains(tamanho));
 
             tamanhos[i] = tamanho;

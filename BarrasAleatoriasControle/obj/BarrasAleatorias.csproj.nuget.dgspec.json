@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel\\source\\repos\\BarrasAleatorias\\BarrasAleatoriasControle\\BarrasAleatorias.csproj": {}
+    "C:\\Users\\daniel\\Source\\Repos\\BarrasAleatorias\\BarrasAleatoriasControle\\BarrasAleatorias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel\\source\\repos\\BarrasAleatorias\\BarrasAleatoriasControle\\BarrasAleatorias.csproj": {
+    "C:\\Users\\daniel\\Source\\Repos\\BarrasAleatorias\\BarrasAleatoriasControle\\BarrasAleatorias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel\\source\\repos\\BarrasAleatorias\\BarrasAleatoriasControle\\BarrasAleatorias.csproj",
+        "projectUniqueName": "C:\\Users\\daniel\\Source\\Repos\\BarrasAleatorias\\BarrasAleatoriasControle\\BarrasAleatorias.csproj",
         "projectName": "BarrasAleatorias",
-        "projectPath": "C:\\Users\\daniel\\source\\repos\\BarrasAleatorias\\BarrasAleatoriasControle\\BarrasAleatorias.csproj",
+        "projectPath": "C:\\Users\\daniel\\Source\\Repos\\BarrasAleatorias\\BarrasAleatoriasControle\\BarrasAleatorias.csproj",
         "packagesPath": "C:\\Users\\daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel\\source\\repos\\BarrasAleatorias\\BarrasAleatoriasControle\\obj\\",
+        "outputPath": "C:\\Users\\daniel\\Source\\Repos\\BarrasAleatorias\\BarrasAleatoriasControle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
