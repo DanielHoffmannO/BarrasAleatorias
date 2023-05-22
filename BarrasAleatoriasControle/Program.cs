@@ -1,16 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Threading;
 
 class Program
 {
+    const int QuantidadeBarras = 37;
+    const int TamanhoMaximo = 38;
+
     static void Main(string[] args)
     {
-        int[] tamanhos = GerarBarrasUnicas(37);
+        int[] tamanhos = GerarBarrasUnicas(QuantidadeBarras);
 
         Console.WriteLine("Barras geradas aleatoriamente:");
         MostrarBarras(tamanhos);
 
-        while (true)
+        while (!Console.KeyAvailable)
         {
             Console.WriteLine("\nOrganizando barras...");
             OrganizarBarras(tamanhos);
@@ -30,28 +34,19 @@ class Program
     {
         int[] tamanhos = new int[quantidade];
         Random random = new Random();
+        HashSet<int> tamanhosGerados = new HashSet<int>();
 
         for (int i = 0; i < quantidade; i++)
         {
             int tamanho;
-            bool repetido;
 
             do
             {
-                tamanho = random.Next(1, 38);
-                repetido = false;
-
-                for (int j = 0; j < i; j++)
-                {
-                    if (tamanhos[j] == tamanho)
-                    {
-                        repetido = true;
-                        break;
-                    }
-                }
-            } while (repetido);
+                tamanho = random.Next(1, TamanhoMaximo);
+            } while (tamanhosGerados.Contains(tamanho));
 
             tamanhos[i] = tamanho;
+            tamanhosGerados.Add(tamanho);
         }
 
         return tamanhos;
@@ -70,10 +65,7 @@ class Program
         {
             for (int j = 0; j < tamanhos.Length; j++)
             {
-                if (tamanhos[j] >= i)
-                    Console.Write("| ");
-                else
-                    Console.Write("  ");
+                Console.Write(tamanhos[j] >= i ? "| " : "  ");
             }
             Console.WriteLine();
         }

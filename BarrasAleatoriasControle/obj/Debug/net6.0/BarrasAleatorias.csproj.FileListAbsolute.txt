@@ -1,0 +1,15 @@
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\bin\Debug\net6.0\BarrasAleatorias.exe
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\bin\Debug\net6.0\BarrasAleatorias.deps.json
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\bin\Debug\net6.0\BarrasAleatorias.runtimeconfig.json
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\bin\Debug\net6.0\BarrasAleatorias.dll
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\bin\Debug\net6.0\BarrasAleatorias.pdb
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\BarrasAleatorias.csproj.AssemblyReference.cache
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\BarrasAleatorias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\BarrasAleatorias.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\BarrasAleatorias.AssemblyInfo.cs
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\BarrasAleatorias.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\BarrasAleatorias.dll
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\refint\BarrasAleatorias.dll
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\BarrasAleatorias.pdb
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\BarrasAleatorias.genruntimeconfig.cache
+C:\Users\daniel\source\repos\BarrasAleatorias\BarrasAleatoriasControle\obj\Debug\net6.0\ref\BarrasAleatorias.dll
