@@ -1,4 +1,4 @@
-# Projeto de Barras Aleatórias em .NET 7.0
+# Projeto de Barras Aleatórias
 
 Este é um projeto de console em .NET 7.0 que gera barras aleatórias, organiza-as e as embaralha continuamente até que uma tecla seja pressionada.
 
